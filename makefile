@@ -1,0 +1,2 @@
+examTester:
+	javac examTester.java
